@@ -12,7 +12,7 @@ body{
     height: auto;
     flex-wrap: wrap;
     height: auto;
-    width: 700px;
+    width: 550px;
 }
 .col-1{
     width: 100%;
@@ -21,12 +21,12 @@ body{
     height: auto;
     flex-wrap: wrap;
     display: flex;
-    padding: 10px 20px 10px 20px;
+    padding: 6px 20px 6px 30px;
     align-items: center;
 }
 .menu .col-1-1 p{
-    font-size: 30px;
-    margin-left: 5px;
+    font-size: 20px;
+    margin-left: 10px;
 }
 .col-1-1{
     align-items: center;
@@ -46,11 +46,11 @@ body{
 }
 .puntos{
     content: "";
-	width: 15px;
-	height: 15px;
+	width: 8px;
+	height: 8px;
 	background: #111;
 	z-index: 1;
-	border-radius: 10px;
+	border-radius: 8px;
 	box-shadow: 0 1px 1px #fff;  
     margin-bottom: 5px;
 }
@@ -67,10 +67,10 @@ body{
     align-items: center;
     flex-wrap: wrap;
     display: flex;
-    padding: 25px 20px 25px 30px;
+    padding: 15px 20px 15px 30px;
 }
 .seccion2 .fa-regular{
-    padding: 10px
+    padding: 10px 10px 10px 0;
 }
 .uno{
     width: 70%;
